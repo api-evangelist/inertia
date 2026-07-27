@@ -1,8 +1,14 @@
 aid: inertia
 name: Inertia
-description: 'Inertia is a company surfaced as a portfolio company of bessemer-venture-partners, gv, threshold-ventures,
-  uncork-capital and added to the API Evangelist network as a stub for enrichment. Sector: deep-tech.
-  This profile is a lead awaiting the enrichment pipeline.'
+description: 'Inertia is a commercial fusion energy company pursuing laser-driven inertial
+  confinement fusion to deliver safe, affordable, grid-scale clean power. Building on the
+  December 2022 ignition milestone at the National Ignition Facility (NIF) in Livermore,
+  Inertia is developing a modular laser system composed of roughly a thousand smaller, more
+  efficient lasers, mass-manufacturing 4.5mm fusion fuel targets for under a dollar each, and
+  firing them ten times per second to power a 1.5 gigawatt baseload, dispatchable power plant.
+  The company is a deep-tech venture tracked in the API Evangelist network as a portfolio-lead
+  stub; it operates a corporate/marketing web presence and publishes no public developer or
+  API surface at this time.'
 url: https://raw.githubusercontent.com/api-evangelist/inertia/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,12 +19,30 @@ x-backed-by:
 - uncork-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://inertia.com/images/inertia.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Deep Tech
+- Fusion Energy
+- Clean Energy
+- Inertial Confinement Fusion
+- Laser
+- Power Generation
+- Climate Tech
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,5 +50,16 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/inertia-domain-security.yml
 - type: Website
   url: https://inertia.com/
+- type: TermsOfService
+  url: https://inertia.com/terms-of-service
+- type: PrivacyPolicy
+  url: https://inertia.com/privacy-policy
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
