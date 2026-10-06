@@ -44,7 +44,7 @@ accessModel:
 image: https://inertia.com/images/inertia.png
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-19'
+modified: '2026-10-06'
 tags:
 - Company
 - Deep Tech
@@ -70,6 +70,8 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- url: https://inertia.com/press
+  type: Blog
 - type: DomainSecurity
   url: security/inertia-domain-security.yml
 - type: Website
