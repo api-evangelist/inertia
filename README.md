@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Inertia is a company surfaced as a portfolio company of bessemer-venture-partners, gv, threshold-ventures, uncork-capital and added to the API Evangelist network as a stub for enrichment. Sector: deep-tech. This profile is a lead awaiting the enrichment pipeline.
+Inertia is a commercial fusion energy company pursuing laser-driven inertial confinement fusion to deliver safe, affordable, grid-scale clean power. Building on the December 2022 ignition milestone at the National Ignition Facility (NIF) in Livermore, Inertia is developing a modular laser system composed of roughly a thousand smaller, more efficient lasers, mass-manufacturing 4.5mm fusion fuel targets for under a dollar each, and firing them ten times per second to power a 1.5 gigawatt baseload, dispatchable power plant. The company is a deep-tech venture tracked in the API Evangelist network as a portfolio-lead stub; it operates a corporate/marketing web presence and publishes no public developer or API surface at this time.
 
-Backed by: bessemer-venture-partners, gv, threshold-ventures, uncork-capital — https://inertia.com/
+**Areas:** Company · Deep Tech · Fusion Energy · Clean Energy · Inertial Confinement Fusion · Lasers · Power Generation · Climate Tech
+
+## Inertia on APIs.io
+
+Everything profiled for Inertia is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/inertia/](https://apis.io/providers/inertia/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Inertia Domain Security](https://apis.io/security/inertia/inertia-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://inertia.com/)
+- [Blog](https://inertia.com/press)
+- [Terms of service](https://inertia.com/terms-of-service)
+- [Privacy policy](https://inertia.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 9.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.5** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/inertia/](https://apis.io/providers/inertia/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Inertia: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/inertia/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
